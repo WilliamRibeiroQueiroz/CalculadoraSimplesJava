@@ -1,0 +1,1 @@
+Esse projeto tem como objetivo desenvolver uma Calculadora Simples em Java.
